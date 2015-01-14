@@ -21,7 +21,6 @@ Library:<br>
 LICENCE
 =======
 
-LICENCE
 The MIT License
 
 Copyright (c) 2010-2015 Edbert Chan
